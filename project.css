@@ -1,0 +1,87 @@
+
+
+
+.menu{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: auto;
+   
+   
+}
+.menu a{
+    text-decoration: none; 
+    font-size: 1rem;
+    padding: 20px;
+    color: black;
+
+}
+.dift {
+    font-size: 1rem;
+    padding: 5px;
+    border-radius: 25px;
+    background-color: blue;
+
+}
+.pera{
+            
+          
+    float: left;
+    margin-top: 0px;
+    font-size: 20px;
+    font-family:  'Open Sans';
+ 
+ }
+ 
+h3{
+    font-size: 50px;
+ }
+ .button{
+    margin: 15px 0px;
+
+ }
+ .btn{
+   
+    font-size: 1rem;
+    padding: 5px;
+    border-radius: 25px;
+    background-color: blue;
+
+ 
+ }
+ .container{
+   
+   width: 40%;
+   margin: 70px;
+  
+    
+    
+     padding: 20px;
+ 
+
+}
+
+    
+.connection{
+    display:inline-flex;
+    
+}
+.image{
+    background-image: url("temp.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    height: 400px;
+    width: 350px;
+   
+    padding: 40px;
+    margin-right:50px;
+    width: 40%;
+    margin: 70px;
+    float: inline-end;
+  
+  
+   
+  
+ 
+}
+ 
